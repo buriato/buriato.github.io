@@ -1,0 +1,3 @@
+markdown: redcarpet
+baseurl: /buriato.github.io
+exclude: ['README.md']
